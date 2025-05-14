@@ -1,21 +1,11 @@
-Hello, 
+Hello,
 
-My name is Julie. 
+My name is Julie. I hold a Bachelor’s degree in Computer Science and completed a professional training in Python Backend Programming at the Digital Career Institute, Berlin. Additionally, I pursued self-directed training in JavaScript with React tools, which I applied in building my final project at DCI - Product Review, a fullstack web application designed to simplify product feedback using Django REST API and React (https://github.com/nkemdilimjulie/Product-Review-code).
 
-In my youthful days, I had always imagined how a computer could do all that it did. 
-This motivated me to pursue a degree in Computer Science. 
-I learnt a lot about data handling and computer operations using FORTRAN, Pascal and COBOL languages.
+Among other technical skills, I have a strong customer-oriented mindset, excellent communication skills in both German and a very good English and intercultural sensitivity and empathy—qualities that enable me to work effectively in diverse, agile teams. 
 
- Moreover, I have a passion for teaching. 
- By this I mean, I enjoy bringing a novice into knowledge. 
- This inspired me to establish a Computer Training Center, where I trained individuals on the use of MS Word and Excel for their office work.
+I look forward to be given the opportunity to bring my talent of problem solving into your company.
 
-Today, many organizations rely on Python for data management and backend operations. 
-So, I took delight in learning Python Programming. I am now a Python Backend Developer. 
-I have been able to develop a world-wide weather project, product review project and others. 
+Thanks a lot for your time.
 
-In addition, I had a self-study on JavaScript with React tools. I used this for designing the frontend of my product review project. 
-
-I am eager to contribute my expertise in data handling, front and backend operations (fullstack) to the growth of your company.
-
-Thanks for reading this. And I look forward to the opportunity to be part of your team.
+Julie
