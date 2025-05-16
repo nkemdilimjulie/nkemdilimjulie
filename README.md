@@ -6,6 +6,7 @@ I am  passionate about learning new technologies. So, I undertook self-study in 
 
 What empower me to work effectively in a diverse and agile team is my excellent communication skills in both German and English language, intercultural sensitivity and empathy. 
 
+You can check on me in LinkedIn: https://www.linkedin.com/in/nkemdilim-julie-chime-13a755339/
 I look forward to be given the opportunity to bring my talent of problem solving into your company.
 
 Thanks a lot for your time.
